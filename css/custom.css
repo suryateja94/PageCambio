@@ -1,0 +1,17 @@
+.box{
+	border: solid black 2px;
+	background: #25299A;
+}
+
+.landing{
+    margin:auto;
+    display:block;
+    background-image: url('..PageCambio/img/img1');
+}
+
+.container {
+    margin:auto;
+    position:relative;
+    top:-2px;
+    z-index:2;
+}
